@@ -27,30 +27,4 @@
   </div>
 </template>
 
-<style scoped>
-.layout {
-  margin: auto;
-  /* position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%); */
-  width: 700px;
-  padding: 30px;
-  border-radius: 10px;
-  box-shadow: 0 15px 50px rgba(0, 0, 0, 0.2);
-}
-
-.circle {
-  width: 200px;
-  background: url("https://static.wixstatic.com/media/0e963a_93643e3ea541417eb87daaad143bcc7c~mv2.jpg/v1/fill/w_498,h_498,al_c,q_50,usm_0.66_1.00_0.01/0e963a_93643e3ea541417eb87daaad143bcc7c~mv2.jpg");
-  height: 200px;
-  background-size: 100% 100%;
-  border-radius: 50%;
-  float: left;
-  shape-outside: circle();
-  margin: 20px;
-}
-p {
-  text-align: justify;
-}
-</style>
+<style scoped></style>
