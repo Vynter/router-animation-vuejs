@@ -1,8 +1,7 @@
 <template>
   <div class="home page">
-    <!-- <img alt="Vue logo" src="../assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js App" /> -->
     <h1>Home page</h1>
+    <img alt="Vue logo" src="../assets/logo.png" />
   </div>
 </template>
 
@@ -16,4 +15,8 @@ export default {
 };
 </script>
 
-<style scoped></style>
+<style scoped>
+.home {
+  text-align: center;
+}
+</style>
