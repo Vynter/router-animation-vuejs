@@ -26,10 +26,10 @@ export default {
 
 .anim-enter-active,
 .anim-leave-active {
-  transition: 2s;
+  transition: 1.2s;
 }
 .anim-enter {
-  filter: blur(1.5rem);
+  filter: blur(1.2rem);
 }
 .anom-enter-to {
   filter: blur(0);
